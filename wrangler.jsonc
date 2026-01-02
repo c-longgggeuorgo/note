@@ -1,9 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/packages/wrangler/config-schema.json",
-  "name": "cloudnotes",
-  "compatibility_date": "2026-01-02",
-  "main": "worker.js",
-  "assets": {
-    "directory": "./"
-  }
-}
