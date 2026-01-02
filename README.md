@@ -2,9 +2,9 @@
 ## 创建后端
 1.创建 Workers
 
-2.创建 D1 SQL数据库 ，名字随意-SQL代码
+2.创建 D1 SQL数据库 ，名字随意-[SQL代码](https://github.com/c-longgggeuorgo/note/blob/main/src/sql.md)
 
-3.编辑代码 worker输入代码
+3.编辑代码 worker输入代码https://github.com/c-longgggeuorgo/note/blob/main/src/sql.md
 
 4.保存部署
 
