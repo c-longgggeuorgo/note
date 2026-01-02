@@ -4,14 +4,6 @@
   "compatibility_date": "2026-01-02",
   "main": "worker.js",
   "assets": {
-    "directory": "./",
-    "exclude": [
-      "wrangler.jsonc",
-      "wrangler.toml",
-      "worker.js",
-      "*.md",
-      "node_modules/**",
-      ".git/**"
-    ]
+    "directory": "./"
   }
 }
